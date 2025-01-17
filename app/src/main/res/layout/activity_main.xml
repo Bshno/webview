@@ -7,9 +7,6 @@
     android:fitsSystemWindows="true"
     tools:context=".MainActivity">
 
-    <androidxsw
-
-
     <WebView
         android:id="@+id/webView"
         android:layout_width="match_parent"
